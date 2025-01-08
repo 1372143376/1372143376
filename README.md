@@ -1,5 +1,5 @@
 ### Hi there 👋
-![GitHub](https://github-readme-stats.vercel.app/api?username=HappyColour)
+![GitHub](https://github-readme-stats.vercel.app/api?username=1372143376)
 - 💬 Contact me：wp1372143376@163.com
 - 😄 Resume：http://tools.wxpeng.cn
 <!-- - ![](https://visitor-badge.glitch.me/badge?page_id=HappyColour.HappyColour) -->
