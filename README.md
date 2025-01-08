@@ -1,7 +1,10 @@
-## Hi there 👋
-
+### Hi there 👋
+![GitHub](https://github-readme-stats.vercel.app/api?username=HappyColour)
+- 💬 Contact me：wp1372143376@163.com
+- 😄 Resume：http://tools.wxpeng.cn
+<!-- - ![](https://visitor-badge.glitch.me/badge?page_id=HappyColour.HappyColour) -->
 <!--
-**1372143376/1372143376** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HappyColour/HappyColour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
