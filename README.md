@@ -29,6 +29,11 @@
 - [Go Microservice Template](https://github.com/1372143376/go-microservice-template): Golang微服务项目模板
 - [Laravel API Starter](https://github.com/1372143376/laravel-api-starter): PHP Laravel API项目模板
 
+## 我关注的项目
+- [awesome-go](https://github.com/avelino/awesome-go): 精选的Go框架、库和软件列表
+- [kubernetes](https://github.com/kubernetes/kubernetes): 生产级容器编排系统
+- [frp](https://github.com/fatedier/frp): 快速反向代理工具
+
 ## 联系我
 - Email: 1372143376@qq.com
 - WeChat: wp1372143376
