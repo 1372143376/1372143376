@@ -1,18 +1,33 @@
 # 欢迎来到我的GitHub主页！
 
 ## 关于我
-- AI和机器学习爱好者
-- 专注于前沿技术研究
-- 开源项目贡献者
+- 后端开发工程师
+- 专注于Golang和PHP开发
+- 微服务架构实践者
+
+## 技术栈
+### 主要语言
+- Golang
+- PHP
+
+### 数据库
+- MySQL
+- Redis
+- MongoDB
+
+### 框架
+- Gin (Golang)
+- Laravel (PHP)
+
+### 其他
+- Docker
+- Kubernetes
+- gRPC
 
 ## 我的项目
 - [AI Projects Collection](https://github.com/1372143376/ai-projects-collection): 收集最新AI项目的资源库
-
-## 技术栈
-- Python
-- TensorFlow/PyTorch
-- JavaScript/TypeScript
-- React/Vue
+- [Go Microservice Template](https://github.com/1372143376/go-microservice-template): Golang微服务项目模板
+- [Laravel API Starter](https://github.com/1372143376/laravel-api-starter): PHP Laravel API项目模板
 
 ## 联系我
 - Email: 1372143376@qq.com
