@@ -1,7 +1,5 @@
 # Hi there 👋
 
-I'm a backend developer with over 8 years of experience, specializing in Golang and PHP.
-
 ## Get in Touch
 - Email: 1372143376@qq.com
 - WeChat: wp1372143376
