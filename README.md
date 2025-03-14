@@ -1,38 +1,67 @@
 # 欢迎来到我的GitHub主页！
 
 ## 关于我
-- 后端开发工程师
-- 专注于Golang和PHP开发
-- 微服务架构实践者
+- 8年以上后端开发经验，5年Golang开发经验，3年PHP开发经验
+- 2年以上项目架构设计主负责人经验
+- 具备大型项目服务设计能力
 
 ## 技术栈
-### 主要语言
-- Golang
-- PHP
+### 编程语言
+- Golang (5年)
+- PHP (3年)
+
+### 框架
+- Gin
+- Kratos
+- go-zero
+- Laravel
 
 ### 数据库
 - MySQL
 - Redis
+- ClickHouse
 - MongoDB
+- Elasticsearch
 
-### 框架
-- Gin (Golang)
-- Laravel (PHP)
+### 消息中间件
+- Kafka
+- RocketMQ
+- Nsq
 
-### 其他
+### 网络协议
+- HTTP/HTTPS
+- gRPC
+- TCP
+- WebSocket
+
+### 运维与部署
+- Linux (Shell脚本编写)
+- Nginx
 - Docker
 - Kubernetes
-- gRPC
 
-## 我的项目
-- [AI Projects Collection](https://github.com/1372143376/ai-projects-collection): 收集最新AI项目的资源库
-- [Go Microservice Template](https://github.com/1372143376/go-microservice-template): Golang微服务项目模板
-- [Laravel API Starter](https://github.com/1372143376/laravel-api-starter): PHP Laravel API项目模板
+### 监控与日志
+- Prometheus
+- Grafana
+- ELK Stack
+
+### 云服务
+- 负载均衡器
+- 服务发现 (Nacos)
+- 分布式追踪
+- 日志服务 (SLS)
+
+## 项目经验
+- 高可用、高负载系统设计
+- 服务集群调优
+- 微服务架构设计与实现
+- 云原生应用容器化与自动化部署
+- 大型项目架构设计
 
 ## 我关注的项目
-- [awesome-go](https://github.com/avelino/awesome-go): 精选的Go框架、库和软件列表
-- [kubernetes](https://github.com/kubernetes/kubernetes): 生产级容器编排系统
-- [frp](https://github.com/fatedier/frp): 快速反向代理工具
+- [awesome-go](https://github.com/avelino/awesome-go)
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+- [frp](https://github.com/fatedier/frp)
 
 ## 联系我
 - Email: 1372143376@qq.com
