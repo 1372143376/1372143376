@@ -1,8 +1,21 @@
-# 欢迎来到我的GitHub主页！
+# Hi there 👋
 
-## 联系我
+I'm a backend developer with over 8 years of experience, specializing in Golang and PHP.
+
+## Tech Stack
+- **Languages**: Golang, PHP
+- **Frameworks**: Gin, Kratos, go-zero, Laravel
+- **Databases**: MySQL, Redis, ClickHouse, MongoDB
+- **DevOps**: Docker, Kubernetes, Nginx
+
+## Featured Projects
+- [AI Projects Collection](https://github.com/1372143376/ai-projects-collection)
+- [Go Microservice Template](https://github.com/1372143376/go-microservice-template)
+- [Laravel API Starter](https://github.com/1372143376/laravel-api-starter)
+
+## Get in Touch
 - Email: 1372143376@qq.com
 - WeChat: wp1372143376
 
-## GitHub统计
+## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1372143376&show_icons=true&theme=radical)
